@@ -1,0 +1,20 @@
+html {
+	background-color: #123; 
+}
+body {
+    text-align: center;
+}
+#game-message {
+	display: inline-block;
+	float: left;
+	position: absolute;
+	z-index: 2
+	right: 0;
+	opacity: 0;
+	color: white;
+
+	-webkit-transition: all 1500ms ease-out 1s;
+    -moz-transition: all 1500ms ease-out 1s;
+    -o-transition: all 1500ms ease-out 1s;
+    transition: all 1500ms ease-out 1s;
+}

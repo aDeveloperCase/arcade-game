@@ -1,0 +1,3 @@
+External resources that I used or consulted:
+- The book "Javascript: the good part" to augment JavaScript functionalities in jslib.js
+- Robert Penner's easing equations to animate the jump 
