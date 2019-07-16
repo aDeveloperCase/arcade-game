@@ -1,11 +1,11 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-####Run Arcade Game
+#### Run Arcade Game
 To run the game, simply download the P3 -Arcade Game folder and open the index.html file in a browser that supports HTML5 canvas.
-Alternatively you can play it [online](http://repo10111.github.io/nanodegree/P3%20-%20Arcade%20Game/)
+Alternatively you can play it [online](https://myrepongithub.github.io/arcade-game/)
 
-####Rules
+#### Rules
 The aim of the game is to complete 5 levels reaching the target block (the one with the star).
 
 You have 3 lifes, each time you touch an enemy or drown in the water you lose a life.
