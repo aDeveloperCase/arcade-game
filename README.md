@@ -3,7 +3,7 @@ frontend-nanodegree-arcade-game
 
 #### Run Arcade Game
 To run the game, simply download the P3 -Arcade Game folder and open the index.html file in a browser that supports HTML5 canvas.
-Alternatively you can play it [online](https://myrepongithub.github.io/arcade-game/)
+Alternatively you can play it [online](https://adevelopercase.github.io/arcade-game/)
 
 #### Rules
 The aim of the game is to complete 5 levels reaching the target block (the one with the star).
